@@ -3,3 +3,6 @@
 roster = ['Davis', 'Bacot', 'Ingram']
 
 print(roster)
+
+for player in roster:
+    print(player)
